@@ -10,7 +10,7 @@ public class him5 {
         System.out.print("Enter your age: ");
         int age = input.nextInt();
 
-        System.out.println("Hello, " + name + "!");
+        System.out.println("Hello, my " + name + "!");
         System.out.println("You are " + age + " years old.");
         System.out.println("Next year, you will be " + (age + 1) + ".");
 
