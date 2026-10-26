@@ -14,7 +14,7 @@ public class him4 {
             System.out.println(number + " x " + i + " = " + result);
         }
 
-        System.out.println("Table complete!");
+        System.out.println("Table complete!  is now");
         input.close();
     }
 }
